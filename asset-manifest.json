@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hanuman_agencies/static/css/main.c4d26e37.css",
+    "main.js": "/hanuman_agencies/static/js/main.6a1e32a6.js",
+    "static/media/Home.jpg": "/hanuman_agencies/static/media/Home.1abdebdca9271f28077f.jpg",
+    "static/media/animate.jpeg": "/hanuman_agencies/static/media/animate.116e55339dc7c3810363.jpeg",
+    "static/media/astral.jpeg": "/hanuman_agencies/static/media/astral.5a88859364e058aa402f.jpeg",
+    "static/media/abt.jpeg": "/hanuman_agencies/static/media/abt.b3d60629202c5124ea67.jpeg",
+    "static/media/12.jpeg": "/hanuman_agencies/static/media/12.b77f345dfa8cc86171a1.jpeg",
+    "static/media/proof1.jpeg": "/hanuman_agencies/static/media/proof1.01ea14c8acd22cda2098.jpeg",
+    "static/media/images.jpeg": "/hanuman_agencies/static/media/images.98f9c57463f74e3538c6.jpeg",
+    "index.html": "/hanuman_agencies/index.html",
+    "main.c4d26e37.css.map": "/hanuman_agencies/static/css/main.c4d26e37.css.map",
+    "main.6a1e32a6.js.map": "/hanuman_agencies/static/js/main.6a1e32a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d26e37.css",
+    "static/js/main.6a1e32a6.js"
+  ]
+}
